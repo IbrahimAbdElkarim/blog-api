@@ -1,0 +1,8 @@
+{
+  "TOKEN_MISSING": "Missing Token",
+  "TOKEN_EXPIRED": "Expired Token",
+  "INVALID_BEARER_AUTHORIZATION": "Authorization must start with Bearer",
+  "USER_NOT_FOUND": "لم يتم العثور على المستخدم",
+  "EMAIL_ALREADY_EXISTS": "البريد الإلكتروني موجود بالفعل",
+  "INVALID_PASSWORD": "كلمه سر خاطئة"
+}

@@ -1,0 +1,11 @@
+{
+  "TOKEN_MISSING": "Missing Token",
+  "TOKEN_EXPIRED": "Expired Token",
+  "INVALID_BEARER_AUTHORIZATION": "Authorization must start with Bearer",
+  "USER_NOT_FOUND": "User not found",
+  "EMAIL_ALREADY_EXISTS": "Email already exists",
+  "INVALID_PASSWORD": "Invalid Password",
+  "ARTICLE_NOT_FOUND": "Article not found",
+  "INVALID_ID": "Invalid Id",
+  "INVALID_PERMISSION": "Invalid premission"
+}
